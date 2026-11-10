@@ -13,6 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Impact of type and level of stabilizers and fermentation period on the nutritional microbiological and sensory properties of short-set Yoghurt](ebook/artikel.pdf) - Chinazom Martina Eze1
 10. [Effect of Soursop (Annona muricata) Puree and Gum Arabic From Acacia senegal var. kerensis on the Physicochemical and Nutritional Properties of Non-Dairy Coconut (Cocos nucifera) Milk–Based Ice Cream](ebook/artikel.pdf) - Sarah Nura Mulwa
 11. [Akuisisi bahan pustaka di Perpustakaan MAN 2 Hulu Sungai Utara](ebook/artikel.pdf) - Siti Fatimah
-12. [Ringkasan-UGC](ebook/artikel.pdf) - Farah Nurhidayah
+12. [Ringkasan-UGC](ebook/Ringkasan-UGC.pdf) - Farah Nurhidayah (2026)
 ---
 *Powered by GitHub Pages*
