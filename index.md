@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [ANALISIS EFEKTIVITAS KINERJA BENDUNG KARET RAMBATAN KABUPATEN INDRAMAYU](ebook/artikel.pdf) – Khusnul Hotimah, dkk (2024) 
 2. [The Effect of Different Stabilisers on the Quality Properties of Tahini Milk](ebook/The Effect of Different Stabilisers on the Quality Properties of Tahini Milk.pdf)
-3. [Strategi Rekrutmen Sumber Daya Manusia](ebook/arttikel.pdf) - Dr. Daniel Napitupulu
+3. [Strategi Rekrutmen Sumber Daya Manusia](ebook/Strategi Rekrutmen Sumber Daya Manusia.pdf) - Dr. Daniel Napitupulu (2025)
 4. [Strategi Komunikasi Dinas Perpustakaan Dan Kearsipan Lombok Timur Dalam Meningkatkan Pengunjung](ebook/artikel.pdf) - Nurul Izzah
 5. [Pengolahan Bahan Perpustakaan Elektronik](ebook/artikel.pdf) - Nurida Maulidia Rahma
 6. [Manajemen Koleksi Perpustakaan dalam Mendukung Implementasi Kurikulum Merdeka di SMPS Telekomunikasi Pekanbaru](ebook/artikel.pdf) - Alya Zakiyah Jamel
